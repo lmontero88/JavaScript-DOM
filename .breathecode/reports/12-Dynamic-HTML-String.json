@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 4,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "the html code should contain a script tag",
+      "status": "passed"
+    },
+    {
+      "title": "the js code should contain an assignment line allow you instance a new object from Class Date",
+      "status": "passed"
+    },
+    {
+      "title": "the js code should contain an assignment line allow you use a getFullYear() method",
+      "status": "passed"
+    },
+    {
+      "title": "You should use the document.write method",
+      "status": "passed"
+    }
+  ]
+}
